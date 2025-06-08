@@ -136,4 +136,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Feel free to adapt this README to better fit your project’s features and structure! If you want an even more tailored README (with badges, screenshots, demo links, or setup instructions for deployment), just ask.**
+
