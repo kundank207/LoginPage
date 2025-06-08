@@ -57,4 +57,9 @@ Make sure you have the following installed:
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
 
+2.Create and activate a virtual environment:
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+
 
