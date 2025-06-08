@@ -19,7 +19,6 @@ This project is a simple login page built with **HTML** for the frontend and **D
 - **Other**: Django templating, CSRF middleware
 
 ## 📁 Project Structure
-
 Login/
 ├── manage.py
 ├── project_name/
@@ -27,7 +26,7 @@ Login/
 │ ├── settings.py
 │ ├── urls.py
 │ └── wsgi.py
-├── app_name/
+├── Account/
 │ ├── migrations/
 │ ├── templates/
 │ │ └── login.html
@@ -36,7 +35,7 @@ Login/
 │ ├── urls.py
 │ ├── forms.py (optional)
 │ └── models.py
-└── README.md    
+└── README.md
 
 
 ## 🧑‍💻 Getting Started
@@ -56,10 +55,5 @@ Make sure you have the following installed:
 ```bash
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
-
-2.**Create and activate a virtual environment**:
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
 
 
