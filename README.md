@@ -55,5 +55,7 @@ Make sure you have the following installed:
 ```bash
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 
